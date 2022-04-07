@@ -1,5 +1,5 @@
 def EuclidesE(a, b):
-    # Base Case
+
     if a == 0 :
         return b,0,1
 
